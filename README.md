@@ -13,7 +13,7 @@ Currently exploring the intersection of **AI + Computer Vision + Sequence Models
 * 🌱 Learning advanced **Deep Learning & AI systems design**
 * 💡 Strong interest in **building practical AI applications**
 
----
+----
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +31,7 @@ Currently exploring the intersection of **AI + Computer Vision + Sequence Models
 
 `AI` `Git` `GitHub` `ML` 
 
----
+----
 
 
 ## 🎯 What I'm Focused On
