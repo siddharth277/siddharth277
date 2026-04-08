@@ -53,7 +53,7 @@ Currently exploring the intersection of **AI + Computer Vision + Sequence Models
 
 ---
 
-* 💼 LinkedIn: [*Add your link here*](https://www.linkedin.com/in/shuklasidd17/)
+* 💼 LinkedIn: [*shuklasidd17*](https://www.linkedin.com/in/shuklasidd17/)
 * 📧 Email: siddharthshukla840@gmail.com
 
 ---
