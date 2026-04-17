@@ -1,6 +1,5 @@
-outputs: |
-  dist/snake.svg?color_snake=#00FF00&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-
+ 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddharth277&theme=react-dark&area=true)
 
 Hi there 👋
 This is the place where I open-source stuff and break things 🤣
