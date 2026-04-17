@@ -22,3 +22,4 @@ This is the place where I open-source stuff and break things 🤣
 ---
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=siddharth277&color=blue)
