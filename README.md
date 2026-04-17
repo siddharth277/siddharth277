@@ -51,3 +51,11 @@ Currently exploring the intersection of **AI + Computer Vision + Sequence Models
 
 ⭐ *Always curious, always building, always learning.*
 🤝 Let's connect and collaborate to build innovative software solutions together!
+
+---
+
+## 🐍 Contribution Snake
+
+![snake light](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake.svg)
+
+![snake dark](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake-dark.svg)
