@@ -1,5 +1,5 @@
 <!-- ===== HEADER ===== -->
-<h1 align="center">Hi 👋, I'm Siddharth Shukla</h1>
+<h1 align="center">Hi there👋, I'm Siddharth Shukla</h1>
 <h3 align="center">🚀 AI/ML Engineer | Building Intelligent Systems</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Deep+Learning;Transformers+%7C+Computer+Vision+%7C+LLMs;Building+Real-World+AI+Systems" />
