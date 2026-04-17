@@ -56,6 +56,5 @@ Currently exploring the intersection of **AI + Computer Vision + Sequence Models
 
 ## 🐍 Contribution Snake
 
-![snake light](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake.svg)
 
 ![snake dark](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake-dark.svg)
