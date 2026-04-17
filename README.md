@@ -1,5 +1,6 @@
  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddharth277&theme=react-dark&area=true)
+
+![stats](https://github-readme-stats.vercel.app/api?username=siddharth277&show_icons=true&theme=tokyonight)
 
 Hi there 👋
 This is the place where I open-source stuff and break things 🤣
@@ -18,6 +19,8 @@ This is the place where I open-source stuff and break things 🤣
  Let's connect and collaborate to build innovative software solutions together!
 
 ---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddharth277&theme=react-dark&area=true)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=siddharth277&color=blue)
