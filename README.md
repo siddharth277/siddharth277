@@ -1,6 +1,6 @@
  
+![snake dark](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake-dark.svg)
 
-![stats](https://github-readme-stats.vercel.app/api?username=siddharth277&show_icons=true&theme=tokyonight)
 
 Hi there 👋
 This is the place where I open-source stuff and break things 🤣
@@ -21,6 +21,8 @@ This is the place where I open-source stuff and break things 🤣
 ---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddharth277&theme=react-dark&area=true)
+
+![stats](https://github-readme-stats.vercel.app/api?username=siddharth277&show_icons=true&theme=tokyonight)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=siddharth277&color=blue)
