@@ -1,52 +1,14 @@
-# 👋 Siddharth Shukla  
-### 🚀 AI/ML Engineer | Building Intelligent Systems
+<!-- ===== HEADER ===== -->
+<h1 align="center">Hi 👋, I'm Siddharth Shukla</h1>
+<h3 align="center">🚀 AI/ML Engineer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+Deep+Learning;Building+Real-World+Intelligent+Systems;Transformers+%7C+Computer+Vision+%7C+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Deep+Learning;Transformers+%7C+Computer+Vision+%7C+LLMs;Building+Real-World+AI+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🧠 Building **AI systems** (Computer Vision + NLP + LLMs)  
-- ⚙️ Strong in **Python, PyTorch, C, Data Structures**  
-- 📊 Focused on **real-world ML applications**  
-- 🧪 Currently exploring **Transformers & Agentic AI**  
-- 💬 Ask me about **Deep Learning, LLMs, System Design**
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-
-
-- 🌦 **Ensemble Weather Prediction**  
-  → ARIMA + SARIMA + LSTM hybrid system  
-
-- 🤖 **AI HR Agent (RAG Pipeline)**  
-  → LangChain + embeddings + vector DB  
-
-
-
----
-
-## 📊 GitHub Stats
-
+<!-- ===== HERO SECTION ===== -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddharth277&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth277&layout=compact&theme=tokyonight" height="160"/>
@@ -54,7 +16,63 @@
 
 ---
 
-## 🔥 Contribution Activity
+<!-- ===== ABOUT ===== -->
+## 🧠 About Me
+
+- 🚀 Building **AI systems that solve real-world problems**
+- 🧪 Working with **Deep Learning, Transformers, and LLMs**
+- ⚙️ Strong foundation in **DSA, C, and system-level thinking**
+- 📊 Focus: **Computer Vision + NLP + Agentic AI**
+- 💬 Ask me about: **ML pipelines, LLMs, and system design**
+
+---
+
+<!-- ===== TECH STACK ===== -->
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,linux,git" />
+<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,opencv,tensorflow" />
+
+</p>
+
+---
+
+<!-- ===== PROJECTS ===== -->
+## 🚀 Featured Projects
+
+### 🧠 Handwritten Equation Recognition
+> CNN + BiLSTM + CTC Loss for sequence prediction  
+✔ Multi-dataset (MNIST + EMNIST)  
+✔ End-to-end deep learning pipeline  
+
+---
+
+### 🌦 Ensemble Weather Prediction
+> ARIMA + SARIMA + LSTM hybrid model  
+✔ Reduced RMSE significantly  
+✔ Time-series + deep learning integration  
+
+---
+
+### 🤖 AI HR Agent (RAG Pipeline)
+> LangChain + embeddings + vector DB  
+✔ Context-aware responses  
+✔ Modular AI pipeline  
+
+---
+
+### 🛣 Road Asset Detection (NHAI Hackathon)
+> Computer Vision + compliance scoring  
+✔ IRC standards-based evaluation  
+✔ Real-world deployment use case  
+
+---
+
+<!-- ===== ACTIVITY ===== -->
+## 📊 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth277&theme=react-dark&area=true" />
@@ -62,6 +80,7 @@
 
 ---
 
+<!-- ===== SNAKE ===== -->
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -70,14 +89,24 @@
 
 ---
 
+<!-- ===== CONTACT ===== -->
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://linkedin.com/in/shuklasid17  
-- 📧 Email: siddharthshukla840@gmail.com  
-- 💻 Codeforces: https://codeforces.com/profile/Siddharthshukla  
+<p align="center">
+  <a href="https://linkedin.com/in/shuklasid17">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:siddharthshukla840@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://codeforces.com/profile/Siddharthshukla">
+    <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
+<!-- ===== FOOTER ===== -->
 <p align="center">
-  <i>Always building. Always learning. Always curious.</i>
+  <i>⚡ Always building. Always learning. Always curious.</i>
 </p>
