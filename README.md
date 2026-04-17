@@ -1,20 +1,19 @@
 <!-- ===== HEADER ===== -->
 <h1 align="center">Hi 👋, I'm Siddharth Shukla</h1>
 <h3 align="center">🚀 AI/ML Engineer | Building Intelligent Systems</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Deep+Learning;Transformers+%7C+Computer+Vision+%7C+LLMs;Building+Real-World+AI+Systems" />
+</p>
+
+---
+
+
 
 ![snake dark](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake-dark.svg)
 
 
 
----
 
-<!-- ===== HERO SECTION ===== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharth277&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth277&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 <!-- ===== ABOUT ===== -->
 ## 🧠 About Me
@@ -41,17 +40,22 @@
 ---
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Deep+Learning;Transformers+%7C+Computer+Vision+%7C+LLMs;Building+Real-World+AI+Systems" />
-</p>
-
-
+<!-- ===== ACTIVITY ===== -->
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake.svg" width="75%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth277&theme=react-dark&area=true" />
 </p>
 
+---
 
+<!-- ===== HERO SECTION ===== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth277&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth277&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
 
 <!-- ===== CONTACT ===== -->
 ## 📫 Connect With Me
