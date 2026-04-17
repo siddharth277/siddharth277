@@ -1,53 +1,15 @@
-# Siddharth this Side 
-
 
 ![snake dark](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake-dark.svg)
 
 
-🚀 **AI/ML Enthusiast | Agentic AI**
 
-I’m a passionate developer focused on building intelligent systems and solving real-world problems using **Machine Learning and Deep Learning**.
-Currently exploring the intersection of **AI + Computer Vision + Sequence Models + Agentiic AI**.
+Hi there 👋
+This is the place where I open-source stuff and break things 🤣
 
----
+🔭 I’m currently working on something cool 😉
+🌱 I’m currently learning AI , ML , DL , AGENTIC AI 
+💬 Ask me about AI frameworks & LLMs
 
-##  About Me
-
-*  Working on **Agentic AI , LLMs**
-*  Learning advanced **Deep Learning & AI systems design**
-*  Strong interest in **building practical AI applications**
-* Doing Something
-
-----
-
-##  Tech Stack
-
-###  Languages
-
-`C` `C++` `Python`
-
-###  AI / ML /DL / NLP
-
-`PyTorch` `NumPy` `Pandas` `Matplotlib`
-`CNN` `RNN` `BiLSTM` `Transformer`
-`Agentic AI` `LLMs` `Langchain` `Langgraph` `CrewAI`
-
-###  Databases & Tools
-
-`AI` `Git` `GitHub` `ML` 
-
-----
-
-
-##  What I'm Focused On
-
-* 🔹 Improving model accuracy & optimization
-* 🔹 Building end-to-end AI systems
-* 🔹 Exploring research-oriented projects
-
-
-
----
 
 *  LinkedIn: [*shuklasidd17*](https://www.linkedin.com/in/shuklasidd17/)
 *  Email: siddharthshukla840@gmail.com
