@@ -1,6 +1,7 @@
 
-![snake dark](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake-dark.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake.svg" width="80%"/>
+</p>
 
 
 Hi there 👋
