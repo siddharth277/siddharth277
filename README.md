@@ -22,7 +22,7 @@ This is the place where I open-source stuff and break things 🤣
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddharth277&theme=react-dark&area=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=siddharth277&show_icons=true&theme=tokyonight)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=siddharth277&show_icons=true&theme=tokyonight)
 
