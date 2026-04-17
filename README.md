@@ -33,8 +33,7 @@
 
 ## 🚀 Featured Projects
 
-- 🧠 **Handwritten Equation Recognition**  
-  → CNN + BiLSTM + CTC Loss (sequence modeling)
+
 
 - 🌦 **Ensemble Weather Prediction**  
   → ARIMA + SARIMA + LSTM hybrid system  
@@ -42,8 +41,7 @@
 - 🤖 **AI HR Agent (RAG Pipeline)**  
   → LangChain + embeddings + vector DB  
 
-- 🛣 **Road Asset Detection System (NHAI Hackathon)**  
-  → CV + compliance scoring (IRC standards)
+
 
 ---
 
