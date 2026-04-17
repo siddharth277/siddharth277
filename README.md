@@ -77,3 +77,5 @@
 <p align="center">
   <i>⚡ Always building. Always learning. Always curious.</i>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=siddharth277&color=blue)
