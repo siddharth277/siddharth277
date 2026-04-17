@@ -23,7 +23,7 @@
 - 📊 Focus: **Computer Vision + NLP + Agentic AI**
 - 💬 Ask me about: **ML pipelines, LLMs, and system design**
 
----
+----
 
 <!-- ===== TECH STACK ===== -->
 ## 🛠 Tech Stack
