@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Siddharth Shukla
 
+
+![snake dark](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake-dark.svg)
+
+
 🚀 **AI/ML Enthusiast | Agentic AI**
 
 I’m a passionate developer focused on building intelligent systems and solving real-world problems using **Machine Learning and Deep Learning**.
@@ -54,7 +58,4 @@ Currently exploring the intersection of **AI + Computer Vision + Sequence Models
 
 ---
 
-## 🐍 Contribution Snake
 
-
-![snake dark](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake-dark.svg)
