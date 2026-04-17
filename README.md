@@ -33,7 +33,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,linux,git" />
 <br/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,opencv,tensorflow" />
+<img src="https://skillicons.dev/icons?i=numpy,pandas,opencv,tensorflow,llms" />
 
 </p>
 
