@@ -1,7 +1,5 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake.svg" width="80%"/>
-</p>
+outputs: |
+  dist/snake.svg?color_snake=#00FF00&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
 
 Hi there 👋
