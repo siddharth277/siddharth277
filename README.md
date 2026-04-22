@@ -8,7 +8,7 @@
 
 
 
-![snake dark](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake-dark.svg)
+![snake bright](https://raw.githubusercontent.com/siddharth277/siddharth277/output/github-contribution-grid-snake-dark.svg)
 
 
 
