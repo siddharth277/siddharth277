@@ -93,12 +93,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=siddharth277&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
-<br/>
-
-<h2 align="center">🔝 Top Contributed Repositories</h2>
+<h2 align="center">📊 Contribution Insights</h2>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=siddharth277&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth277&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=siddharth277&theme=tokyonight" width="48%" />
 </p>
 
 
