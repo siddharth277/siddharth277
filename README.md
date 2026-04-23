@@ -91,6 +91,16 @@
 ## 🔥 Top Projects
 
 <!--START_SECTION:top_repos-->
+### [NHAI-hackathon](https://github.com/siddharth277/NHAI-hackathon)
+
+
+![Stars](https://img.shields.io/github/stars/siddharth277/NHAI-hackathon?style=flat-square) ![Forks](https://img.shields.io/github/forks/siddharth277/NHAI-hackathon?style=flat-square)
+
+### [Basic-chatbot](https://github.com/siddharth277/Basic-chatbot)
+A beginner-friendly buggy chatbot built with Jupyter Notebook, designed to help developers practice debugging, fix real issues, and contribute to open source.
+
+![Stars](https://img.shields.io/github/stars/siddharth277/Basic-chatbot?style=flat-square) ![Forks](https://img.shields.io/github/forks/siddharth277/Basic-chatbot?style=flat-square)
+
 <!--END_SECTION:top_repos-->
 
 
