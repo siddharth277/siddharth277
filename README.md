@@ -84,6 +84,16 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth277&theme=dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=siddharth277&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth277&theme=dark&hide_border=true&layout=compact" width="50%" />
+</p>
+
 <!-- ===== FOOTER ===== -->
 <p align="center">
   <i>⚡ Always building. Always learning. Always curious.</i>
