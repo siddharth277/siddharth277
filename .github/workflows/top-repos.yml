@@ -1,0 +1,52 @@
+name: Update Top Repositories
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch Top Repos
+        run: |
+          curl -s https://api.github.com/users/siddharth277/repos?per_page=100 > repos.json
+
+          python3 << EOF
+import json, re
+
+with open("repos.json") as f:
+    repos = json.load(f)
+
+repos = sorted(repos, key=lambda x: x["stargazers_count"] + x["forks_count"], reverse=True)
+
+top = repos[:2]
+
+content = ""
+for repo in top:
+    content += f"- ⭐ {repo['stargazers_count']} | 🍴 {repo['forks_count']} | [{repo['name']}]({repo['html_url']})\n"
+
+with open("README.md") as f:
+    readme = f.read()
+
+new_readme = re.sub(
+    r"<!--START_SECTION:top_repos-->.*<!--END_SECTION:top_repos-->",
+    f"<!--START_SECTION:top_repos-->\n{content}<!--END_SECTION:top_repos-->",
+    readme,
+    flags=re.DOTALL
+)
+
+with open("README.md", "w") as f:
+    f.write(new_readme)
+EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated top repos" || echo "No changes"
+          git push
