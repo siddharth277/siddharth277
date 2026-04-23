@@ -9,56 +9,18 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write          # ← FIX 1: allow git push
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
 
       - name: Fetch Top Repos
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ← FIX 2: authenticated API call
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           curl -s -H "Authorization: token $GH_TOKEN" \
-            "https://api.github.com/users/siddharth277/repos?per_page=100" > repos.json   # ← FIX 3: quoted URL
-
-          python3 << 'EOF'
-import json, re
-
-with open("repos.json") as f:
-    repos = json.load(f)
-
-# Filter out forked repos (optional — remove this line to include forks)
-repos = [r for r in repos if not r.get("fork", False)]
-
-repos = sorted(repos, key=lambda x: x["stargazers_count"] + x["forks_count"], reverse=True)
-
-top = repos[:2]
-
-content = ""
-for repo in top:
-    desc = repo.get("description") or ""
-    content += (
-        f'### [{repo["name"]}]({repo["html_url"]})\n'
-        f'{desc}\n\n'
-        f'![Stars](https://img.shields.io/github/stars/siddharth277/{repo["name"]}?style=flat-square) '
-        f'![Forks](https://img.shields.io/github/forks/siddharth277/{repo["name"]}?style=flat-square)\n\n'
-    )
-
-with open("README.md") as f:
-    readme = f.read()
-
-new_readme = re.sub(
-    r"<!--START_SECTION:top_repos-->.*?<!--END_SECTION:top_repos-->",
-    f"<!--START_SECTION:top_repos-->\n{content}<!--END_SECTION:top_repos-->",
-    readme,
-    flags=re.DOTALL
-)
-
-with open("README.md", "w") as f:
-    f.write(new_readme)
-
-print("Done! Top repos:", [r["name"] for r in top])
-EOF
+            "https://api.github.com/users/siddharth277/repos?per_page=100" > repos.json
+          python3 .github/scripts/update_top_repos.py
 
       - name: Commit changes
         run: |
