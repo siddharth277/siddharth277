@@ -89,17 +89,6 @@
 ---
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddharth277&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
-<h2 align="center">📊 Contribution Insights</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharth277&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=siddharth277&theme=tokyonight" width="48%" />
-</p>
-
 
 
 
