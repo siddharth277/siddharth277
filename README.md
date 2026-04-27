@@ -96,10 +96,10 @@ AI-Powered Retroreflectivity Measurement System
 
 ![Stars](https://img.shields.io/github/stars/siddharth277/NHAI-hackathon?style=flat-square) ![Forks](https://img.shields.io/github/forks/siddharth277/NHAI-hackathon?style=flat-square)
 
-### [Basic-chatbot](https://github.com/siddharth277/Basic-chatbot)
-A beginner-friendly buggy chatbot built with Jupyter Notebook, designed to help developers practice debugging, fix real issues, and contribute to open source.
+### [Ensemble-weather-prediction](https://github.com/siddharth277/Ensemble-weather-prediction)
+End-to-end machine learning pipeline for forecasting Delhi's daily mean temperature using XGBoost, LightGBM, Bidirectional LSTM, ARIMA, SARIMA, and a tuned Ensemble — served via a Streamlit web app.
 
-![Stars](https://img.shields.io/github/stars/siddharth277/Basic-chatbot?style=flat-square) ![Forks](https://img.shields.io/github/forks/siddharth277/Basic-chatbot?style=flat-square)
+![Stars](https://img.shields.io/github/stars/siddharth277/Ensemble-weather-prediction?style=flat-square) ![Forks](https://img.shields.io/github/forks/siddharth277/Ensemble-weather-prediction?style=flat-square)
 
 <!--END_SECTION:top_repos-->
 
