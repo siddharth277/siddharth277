@@ -96,10 +96,10 @@ AI-Powered Retroreflectivity Measurement System
 
 ![Stars](https://img.shields.io/github/stars/siddharth277/AI-Powered-Retroreflectivity-Measurement-System?style=flat-square) ![Forks](https://img.shields.io/github/forks/siddharth277/AI-Powered-Retroreflectivity-Measurement-System?style=flat-square)
 
-### [Ensemble-weather-prediction](https://github.com/siddharth277/Ensemble-weather-prediction)
-End-to-end machine learning pipeline for forecasting Delhi's daily mean temperature using XGBoost, LightGBM, Bidirectional LSTM, ARIMA, SARIMA, and a tuned Ensemble — served via a Streamlit web app.
+### [Ai-lab](https://github.com/siddharth277/Ai-lab)
+Artificial Intelligence Lab — CS201L (2026)
 
-![Stars](https://img.shields.io/github/stars/siddharth277/Ensemble-weather-prediction?style=flat-square) ![Forks](https://img.shields.io/github/forks/siddharth277/Ensemble-weather-prediction?style=flat-square)
+![Stars](https://img.shields.io/github/stars/siddharth277/Ai-lab?style=flat-square) ![Forks](https://img.shields.io/github/forks/siddharth277/Ai-lab?style=flat-square)
 
 <!--END_SECTION:top_repos-->
 
